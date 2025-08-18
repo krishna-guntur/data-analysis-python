@@ -16,11 +16,11 @@ This repository documents my learning journey in **Data Analysis with Python**, 
 
 ## 📂 Repository Structure  
 📦 data-analysis-python
-┣ 📂 notebooks/ → Jupyter Notebooks with step-by-step practice
-┣ 📂 datasets/ → Sample datasets used for analysis
-┣ 📂 scripts/ → Python scripts for automation and reusable functions
-┣ 📂 visualizations/ → Generated plots and charts
-┗ 📜 README.md
+- 📂 notebooks/ → Jupyter Notebooks with step-by-step practice
+- 📂 datasets/ → Sample datasets used for analysis
+- 📂 scripts/ → Python scripts for automation and reusable functions
+- 📂 visualizations/ → Generated plots and charts
+- 📜 README.md
 
 
 
