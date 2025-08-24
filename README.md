@@ -17,9 +17,8 @@ This repository documents my learning journey in **Data Analysis with Python**, 
 ## 📂 Repository Structure  
 📦 data-analysis-python
 - 📂 libraries/ → Jupyter Notebooks with step-by-step practice
+  - 📂 visualizations/ → Generated plots and charts
 - 📂 datasets/ → Sample datasets used for analysis
-- 📂 scripts/ → Python scripts for automation and reusable functions
-- 📂 visualizations/ → Generated plots and charts
 - 📜 README.md
 
 
@@ -27,7 +26,6 @@ This repository documents my learning journey in **Data Analysis with Python**, 
 ## 🧠 Topics Covered  
 - Data exploration & preprocessing  
 - Descriptive statistics  
-- Indexing & slicing in NumPy & Pandas  
 - Data visualization (bar plots, histograms, scatter plots, heatmaps, etc.)  
 - Exploratory Data Analysis (EDA)  
 
